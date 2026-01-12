@@ -1,8 +1,12 @@
 # 💫 About Me:
 🔭 AWS Cloud Engineer with 4+ years of experience working on scalable AWS infrastructure projects.
+
 🌱 Currently learning and implementing DevOps practices using Docker, Terraform, and CI/CD pipelines.
+
 👯 Open to collaboration on AWS-based SaaS, PaaS, and IaaS applications.
+
 🤔 Ask me about AWS services, cloud architecture, and infrastructure automation.
+
 .<br><br>🏅 Certifications:<br>• AWS Solutions Architect – Associate (2025–2028)<br>• AWS SysOps Administrator – Associate (2025–2028)<br>• AWS Developer – Associate (2025–2028)<br>• AWS Certified Cloud Practitioner (2023–2026)<br>• AWS Certified AI Practitioner (2024–2027)<br>• GitHub Foundations (2025–2028)<br><br>📧 Email: rutmoh18@gmail.com<br><br>♟️ Chess lover — Chess.com ID: [rutmoh19](https://www.chess.com/settings/profile)
 
 
